@@ -10,3 +10,18 @@ input {
     line-height: 16px;
     margin: 10px 0;
 }
+
+#results {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+
+    p {
+        margin: 5px 0;
+    }
+
+    strong {
+        color: #333;
+    }
+}
